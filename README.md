@@ -4,6 +4,9 @@ Dieses Repository enthält das Begleitmaterial zu meinem selbst verfasstes Fachb
 
 ## Inhalt
 
+- **/examples**
+  - `queries_examples.sql` – ausgewählte SQL-Abfragen (JOINs, Aggregationen usw.) aus den Übungen.
+
 - **/sql**
   - `01_schema_base.sql` – Basisschema mit den Tabellen  
   `Kunden`, `Bestellungen`, `Bestellpositionen`, `Artikel`, `Konditionen`, `Lieferanten`.
@@ -11,20 +14,15 @@ Dieses Repository enthält das Begleitmaterial zu meinem selbst verfasstes Fachb
   - `03_extensions_geschaeftspartner.sql` – Erweiterung zur gemeinsamen Tabelle
   `GESCHÄFTSPARTNER` inklusive Sequence und ALTER TABLE Befehlen.
 
-- **/examples**
-  - `queries_examples.sql` – ausgewählte SQL-Abfragen (JOINs, Aggregationen usw.) aus den Übungen.
+- `Informationssysteme_I_Datenbankerstellung_mit_SQL.pdf`
 
-- **/docs**
-  - `Informationssysteme_I_Datenbankerstellung_mit_SQL.pdf` – vollständige Ausarbeitung
-    der Praktikumsaufgaben 1–5 als Fachbuch mit Erläuterungen, Diagrammen und Glossar.
-
-Das Buch vermittelt praxisnah:
-- Datenmodellierung und ER-Diagramme
-- Aufbau relationaler Tabellen mit Primär-, Fremd- und zusammengesetzten Schlüsseln
-- SQL-Befehle (CREATE, INSERT, UPDATE, DELETE, SELECT, WHERE, ORDER BY, CHECK, etc.)
-- Erstellung eines vollständigen Beispiel-Datenbankschemas
-- Konzeptionelle und relationale Modellierung
-- Praktische Herleitung aller Lösungen inklusive Erklärungen, Grafiken und Hinweisen
+  Vollständige Ausarbeitung der Praktikumsaufgaben 1–5 als Fachbuch mit Erläuterungen, Diagrammen und Glossar. Das Buch vermittelt praxisnah:
+  - Datenmodellierung und ER-Diagramme
+  - Aufbau relationaler Tabellen mit Primär-, Fremd- und zusammengesetzten Schlüsseln
+  - SQL-Befehle (CREATE, INSERT, UPDATE, DELETE, SELECT, WHERE, ORDER BY, CHECK, etc.)
+  - Erstellung eines vollständigen Beispiel-Datenbankschemas
+  - Konzeptionelle und relationale Modellierung
+  - Praktische Herleitung aller Lösungen inklusive Erklärungen, Grafiken und Hinweisen
 
 ## Nutzung
 
@@ -43,5 +41,6 @@ Das Buch vermittelt praxisnah:
 Die Skripte sind an Oracle SQL Developer angelehnt (NUMBER, VARCHAR2, DATE). Bei anderen SQL-Dialekten können kleinere Anpassungen notwendig sein.
 
 Erstellt wurde das Werk im Sommersemester 2015 im Rahmen des Wirtschaftsinformatik-Studiums an der HAW Hamburg. Es dient als verständlich erklärtes Beispiel für die Datenbankentwicklung mit SQL und zeigt meinen strukturierten und analytischen Ansatz bei der Lösungsdokumentation.
+
 
 
