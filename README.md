@@ -38,4 +38,6 @@ Dieses Repository enthält das Begleitmaterial zu meinem selbst verfasstes Fachb
 
    @sql/03_extensions_geschaeftspartner.sql
 
-Die Skripte sind an Oracle SQL Developer angelehnt (NUMBER, VARCHAR2, DATE). Bei anderen SQL-Dialekten können kleinere Anpassungen notwendig sein. Erstellt wurde das Werk im Sommersemester 2015 im Rahmen des Wirtschaftsinformatik-Studiums an der HAW Hamburg. Es dient als verständlich erklärtes Beispiel für die Datenbankentwicklung mit SQL und zeigt meinen strukturierten und analytischen Ansatz bei der Lösungsdokumentation.
+Die Skripte sind an Oracle SQL Developer angelehnt (NUMBER, VARCHAR2, DATE). Bei anderen SQL-Dialekten können kleinere Anpassungen notwendig sein. 
+
+Erstellt wurde das Werk im Sommersemester 2015 im Rahmen des Wirtschaftsinformatik-Studiums an der HAW Hamburg. Es dient als verständlich erklärtes Beispiel für die Datenbankentwicklung mit SQL und zeigt meinen strukturierten und analytischen Ansatz bei der Lösungsdokumentation.
