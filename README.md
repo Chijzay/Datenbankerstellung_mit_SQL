@@ -9,7 +9,7 @@ Dieses Repository enthält das Begleitmaterial zu meinem selbst verfasstes Fachb
   `Kunden`, `Bestellungen`, `Bestellpositionen`, `Artikel`, `Konditionen`, `Lieferanten`.
   - `02_sample_data.sql` – Beispieldatensätze für alle Tabellen (u. a. zum Testen von Queries).
   - `03_extensions_geschaeftspartner.sql` – Erweiterung zur gemeinsamen Tabelle
-  `GESCHÄFTSPARTNER` inkl. Sequence und ALTER TABLE Befehlen.
+  `GESCHÄFTSPARTNER` inklusive Sequence und ALTER TABLE Befehlen.
 
 - **/examples**
   - `queries_examples.sql` – ausgewählte SQL-Abfragen (JOINs, Aggregationen usw.) aus den Übungen.
@@ -43,3 +43,4 @@ Das Buch vermittelt praxisnah:
 Die Skripte sind an Oracle SQL Developer angelehnt (NUMBER, VARCHAR2, DATE). Bei anderen SQL-Dialekten können kleinere Anpassungen notwendig sein.
 
 Erstellt wurde das Werk im Sommersemester 2015 im Rahmen des Wirtschaftsinformatik-Studiums an der HAW Hamburg. Es dient als verständlich erklärtes Beispiel für die Datenbankentwicklung mit SQL und zeigt meinen strukturierten und analytischen Ansatz bei der Lösungsdokumentation.
+
