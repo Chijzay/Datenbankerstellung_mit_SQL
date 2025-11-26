@@ -2,8 +2,8 @@ Portfolio-Viewing-Only License (Custom)
 
 Copyright (c) 2015-2025 Steven Illg
 
-This repository, including all documents, texts, graphics, SQL files, and any 
-other included materials ("the Work"), is provided solely for the purpose of 
+This repository, including all documents, texts, graphics, files, source code and 
+any other included materials, is provided solely for the purpose of 
 personal presentation in the author's professional portfolio.
 
 Permitted Use:
