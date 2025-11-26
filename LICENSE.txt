@@ -1,23 +1,17 @@
-Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International
-
 Copyright (c) 2015 Steven Illg
 
-This work is licensed under the Creative Commons 
-Attribution-NonCommercial-NoDerivatives 4.0 International License.
+Alle Rechte vorbehalten.
 
-You are free to:
+Diese Software darf zu Demonstrations- und Lernzwecken verwendet und eingesehen werden.
+Die Nutzung zu kommerziellen Zwecken, einschließlich aber nicht beschränkt auf Verkauf,
+Vermarktung, Hosting als Dienstleistung oder Einbindung in kommerzielle Produkte,
+ist ausdrücklich untersagt.
 
-- Share — copy and redistribute the material in any medium or format
+Es ist nicht gestattet, diese Software oder Teile davon zu kopieren, zu verbreiten,
+zu vervielfältigen, öffentlich zugänglich zu machen, zu verändern, zu forken,
+weiterzuentwickeln oder anderweitig weiterzugeben – weder entgeltlich noch unentgeltlich.
+Ausgenommen hiervon sind Auszüge, die ausschließlich zur Bewertung der technischen
+Fähigkeiten des Autors durch Arbeitgeber oder Recruiter dienen.
 
-Under the following terms:
-
-- Attribution — You must give appropriate credit.
-- NonCommercial — You may not use the material for commercial purposes.
-- NoDerivatives — If you remix, transform, or build upon the material, 
-  you may not distribute the modified material.
-
-No additional restrictions — You may not apply legal terms or technological 
-measures that legally restrict others from doing anything the license permits.
-
-A copy of the full license is available at:
-https://creativecommons.org/licenses/by-nc-nd/4.0/
+Die Software wird ohne jegliche Gewährleistung bereitgestellt. Die Nutzung erfolgt
+auf eigenes Risiko.
