@@ -19,7 +19,7 @@ Dieses Repository enthält das Begleitmaterial zu meinem selbst verfasstes Fachb
   Vollständige Ausarbeitung der Praktikumsaufgaben 1 bis 5 in Form eines Fachbuchs mit ausführlichen Erläuterungen, Diagrammen und Glossar. Das Werk vermittelt praxisnah die nachfolgenden Grundlagen der Datenbankmodellierung und SQL-Entwicklung:
   - Datenmodellierung und ER-Diagramme
   - Aufbau relationaler Tabellen mit Primär-, Fremd- und zusammengesetzten Schlüsseln
-  - SQL-Befehle (CREATE, INSERT, UPDATE, DELETE, SELECT, WHERE, ORDER BY, CHECK, etc.)
+  - SQL-Befehle (`CREATE`, `INSERT`, `UPDATE`, `DELETE`, `SELECT`, `WHERE`, `ORDER BY`, `CHECK`, `JOIN`, etc.)
   - Erstellung eines vollständigen Beispiel-Datenbankschemas
   - Konzeptionelle und relationale Modellierung
   - Praktische Herleitung aller Lösungen inklusive Erklärungen, Grafiken und Hinweisen
@@ -28,16 +28,17 @@ Dieses Repository enthält das Begleitmaterial zu meinem selbst verfasstes Fachb
 
 1. Schema anlegen:
 
-   @sql/01_schema_base.sql
+   ```@sql/01_schema_base.sql```
 
 2. Beispieldaten einspielen:
 
-   @sql/02_sample_data.sql
+   ```@sql/02_sample_data.sql```
 
 3. (Optional) Erweiterung GESCHÄFTSPARTNER ausführen:
 
-   @sql/03_extensions_geschaeftspartner.sql
+   ```@sql/03_extensions_geschaeftspartner.sql```
 
-Die Skripte sind an Oracle SQL Developer angelehnt (NUMBER, VARCHAR2, DATE). Bei anderen SQL-Dialekten können kleinere Anpassungen notwendig sein. 
+Die Skripte sind an Oracle SQL Developer angelehnt (`NUMBER`, `VARCHAR2`, `DATE`). Bei anderen SQL-Dialekten können kleinere Anpassungen notwendig sein. 
 
 Erstellt wurde das Werk im Sommersemester 2015 im Rahmen des Wirtschaftsinformatik-Studiums an der HAW Hamburg. Es dient als verständlich erklärtes Beispiel für die Datenbankentwicklung mit SQL und zeigt meinen strukturierten und analytischen Ansatz bei der Lösungsdokumentation.
+
