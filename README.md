@@ -9,7 +9,7 @@ Dieses Repository enthält das Begleitmaterial zu meinem selbst verfasstes Fachb
 
 - **/sql**
   - `01_schema_base.sql`
-    - Basisschema mit den Tabellen `Kunden`, `Bestellungen`, `Bestellpositionen`, `Artikel`, `Konditionen`, `Lieferanten`
+    - Basisschema mit den Tabellen `Kunden`, `Bestellungen`, `Bestellpositionen`, `Artikel`, `Konditionen`, `Lieferanten` und `GESCHEAFTSPARNTER` 
   - `02_sample_data.sql`
     - Beispieldatensätze für alle Tabellen (u. a. zum Testen von Queries)
   - `03_extensions_geschaeftspartner.sql`
@@ -42,6 +42,7 @@ Dieses Repository enthält das Begleitmaterial zu meinem selbst verfasstes Fachb
 Die Skripte sind an Oracle SQL Developer angelehnt (`NUMBER`, `VARCHAR2`, `DATE`). Bei anderen SQL-Dialekten können kleinere Anpassungen notwendig sein. 
 
 Erstellt wurde das Werk im Sommersemester 2015 im Rahmen des Wirtschaftsinformatik-Studiums an der HAW Hamburg. Es dient als verständlich erklärtes Beispiel für die Datenbankentwicklung mit SQL und zeigt meinen strukturierten und analytischen Ansatz bei der Lösungsdokumentation.
+
 
 
 
