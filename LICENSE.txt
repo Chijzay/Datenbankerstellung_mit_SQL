@@ -1,17 +1,32 @@
-Copyright (c) 2015 Steven Illg
+Portfolio-Viewing-Only License (Custom)
 
-Alle Rechte vorbehalten.
+Copyright (c) 2015-2025 Steven Illg
 
-Diese Software darf zu Demonstrations- und Lernzwecken verwendet und eingesehen werden.
-Die Nutzung zu kommerziellen Zwecken, einschließlich aber nicht beschränkt auf Verkauf,
-Vermarktung, Hosting als Dienstleistung oder Einbindung in kommerzielle Produkte,
-ist ausdrücklich untersagt.
+This repository, including all documents, texts, graphics, SQL files, and any 
+other included materials ("the Work"), is provided solely for the purpose of 
+personal presentation in the author's professional portfolio.
 
-Es ist nicht gestattet, diese Software oder Teile davon zu kopieren, zu verbreiten,
-zu vervielfältigen, öffentlich zugänglich zu machen, zu verändern, zu forken,
-weiterzuentwickeln oder anderweitig weiterzugeben – weder entgeltlich noch unentgeltlich.
-Ausgenommen hiervon sind Auszüge, die ausschließlich zur Bewertung der technischen
-Fähigkeiten des Autors durch Arbeitgeber oder Recruiter dienen.
+Permitted Use:
+- You may view the Work directly on the author's GitHub profile for the purpose 
+  of evaluation of the author's skills and qualifications.
 
-Die Software wird ohne jegliche Gewährleistung bereitgestellt. Die Nutzung erfolgt
-auf eigenes Risiko.
+Prohibited Use:
+- You may NOT download, copy, reproduce, distribute, share, publish, or 
+  otherwise transfer the Work, in whole or in part.
+- You may NOT modify, transform, adapt, or create derivative works based on the Work.
+- You may NOT use the Work for any commercial, educational, or private purpose.
+- You may NOT include the Work in any software, dataset, documentation, 
+  training material, book, website, or digital/physical product.
+- You may NOT publish the Work, in whole or in part, on any other platform 
+  (including but not limited to GitHub forks, websites, cloud drives, 
+  social media, academic repositories, or file-sharing services).
+
+Ownership:
+- All rights remain exclusively with the author.
+- No license to copy, distribute, or exploit the Work is granted or implied.
+
+Limitation:
+- The Work is made available solely as part of the author's personal portfolio. 
+  Any use outside of viewing for evaluation purposes is strictly forbidden.
+
+By accessing this repository, you agree to abide by these terms.
